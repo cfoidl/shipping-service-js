@@ -1,7 +1,7 @@
 {
-  "name": "shipping-service-js",
+  "name": "shipping-service-30",
   "version": "1.0.0",
-  "description": "Lab2 app",
+  "description": "Lab3 app",
   "main": "app.js",
   "scripts": {
     "test": "jest tests --env=node",
